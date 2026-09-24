@@ -236,3 +236,11 @@ On startup the server runs goose, then seeds if `ev_models` has no rows.
 ## Data note
 
 This is a demo dataset for learning the MCP loop. Dealer prices move, and import duty is whatever the current gazette says. The descriptions in `import_policy` say the same thing.
+
+## Author
+
+[harith2001](mailto:danula243@gmail.com)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
